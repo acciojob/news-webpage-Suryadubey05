@@ -12,6 +12,7 @@ body{
 	color:white;
 	display:flex;
 	align-items:center;
+	text-align:center;
 	justify-content:center;
 	padding:10px;
 }
@@ -24,7 +25,6 @@ body{
 }
 .main-article{
 	line-height:12px;
-	width:1000px;
 	font-size:12px;
 	padding:20px;
 	background-color:white;
@@ -37,21 +37,16 @@ body{
 	padding-top:10px;
 }
 .latest-news-section{
-	font-size:12px;
-	padding:20px;
+	padding:40px;
 	background-color:white;
 	border-radius:10px;
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-	width:800px;
 }
 .latest-news-section ul{
 	padding-top:10px;
 }
 
 .pictorial-news-section{
-	font-size:12px;
+	text-align:center;
 	padding:20px;
 	background-color:white;
 	border-radius:10px;
